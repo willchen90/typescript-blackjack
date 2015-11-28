@@ -1,4 +1,3 @@
 node_modules
-**.js
-**.js.map
-*.map
+/*.js
+/*.js.map
