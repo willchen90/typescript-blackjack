@@ -22,5 +22,5 @@ export default class Hand {
 		return _.map(this.cards, function(card: Card) {
 			return card.displayName;
 		});
-	}
+	} 
 }

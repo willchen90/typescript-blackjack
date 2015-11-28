@@ -1,4 +1,4 @@
-import Hand from "./Hand";
+import Hand from "./hand";
 
 export default class Game {
 	gameName: string;
@@ -13,7 +13,7 @@ export default class Game {
 		this.maxPointsAllowed = 21;
 	}
 	static initBlackjack () {
-		return new Game("Blackjack");
+		return new Game("Blackjack"); 
 	}
 	
 }

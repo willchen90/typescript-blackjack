@@ -23,4 +23,4 @@ var Hand = (function () {
 })();
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = Hand;
-//# sourceMappingURL=Hand.js.map
+//# sourceMappingURL=hand.js.map
